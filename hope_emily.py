@@ -3,4 +3,7 @@ print("That perches in the soul -")
 print("And sings the tune without the words -")
 print("And never stops - at all -")
 print()
-
+print("And sweetest - in the Gale - is heard -")
+print("And sore must be the storm -")
+print("That could abash the little Bird")
+print("That kept so many warm -")
